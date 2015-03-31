@@ -431,9 +431,10 @@ Possibly useful
 - [(longer) user guide](http://scikit-learn.org/stable/user_guide.html)
 - [many examples](http://scikit-learn.org/0.11/auto_examples/index.html)
 
-### a book
+### books
 - [a book](http://www.packtpub.com/mastering-machine-learning-with-scikit-learn/book)
-- [a code set associated with this book](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+- [another book](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
+- [a code set associated with the second book](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
 
 ### some fun data, none of which has API
